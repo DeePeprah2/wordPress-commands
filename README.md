@@ -1,2 +1,1 @@
-# wordPress-commands
-wordPress-commands
+# wordpress-project-commands
